@@ -6,7 +6,7 @@ A Python implementation of a Naive Bayes classifier to analyze sentiment in mess
 ## CSV Format
 | ID | Entity | Sentiment | Message |
 |----|--------|-----------|---------|
-|... |  ...   |    ...    |   ...   |
+|    |        |           |         |
 
 ## Usage
 1. Ensure the training and validation csv files are locally accessible.
